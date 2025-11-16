@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Build and Compilation
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.class
+*.jar
+
+# Logs and Temp
+*.log
+logs/
+tmp/
+temp/
+
+# Environment and Secrets
+.env
+.env.local
+.env.*.local
+secrets/
+
+# OS
+Thumbs.db
+.DS_Store
